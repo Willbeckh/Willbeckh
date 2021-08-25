@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with developing API's.
 - 💬 Ask me about Python.
-- 📫 Reach me: wileyhndirangu04@gmail.com, twitter.com/billyndirangu, dev.to/billyndirangu
+- 📫 Reach me: wileyhndirangu04@gmail.com, https://twitter.com/billyndirangu, https://dev.to/billyndirangu, linkedin.com/in/willbeckh-ndirangu-2770a9169
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: It works in my computer 😆
 
