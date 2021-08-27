@@ -1,7 +1,7 @@
 ### Hi there 👋 
 My name is **Willbeckh**, I am a junior software developer. Coding makes me happy 😢 I am here to traverse uncharted waters.
 
-Here are some ideas to get you started:
+Progress:
 
 <!-- - 🔭 I’m currently working on a  -->
 - 🌱 I’m currently learning Python for web & software development.
